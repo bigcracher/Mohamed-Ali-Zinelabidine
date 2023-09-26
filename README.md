@@ -1,4 +1,4 @@
-# Python Script returning google dorks that work on URLs
+# Python Script returning google dorks successful on URLs
 I made a small Python Script that allows you to access these files uploaded , send requests to a specified URL link and identify the google dorks that work on the URL .
 
 
