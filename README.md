@@ -1,2 +1,2 @@
 # Mohamed-Ali-Zinelabidine
-Web Application Penetration Testing tool
+This is a small python script i made 
